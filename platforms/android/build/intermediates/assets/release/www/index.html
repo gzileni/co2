@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <!--
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title></title>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+   
+    <!-- Leaflet CSS Styles -->
+    <link href="css/leaflet.css" rel="stylesheet" type="text/css">
+    <link href="css/leaflet.usermarker.css" rel="stylesheet" type="text/css">
+    <link href="css/leaflet.awesome-markers.css" rel="stylesheet" type="text/css">
+    <link href="css/Leaflet.Weather.css" rel="stylesheet" type="text/css">
+    <link href="css/leaflet-openweathermap.css" rel="stylesheet" type="text/css">
+    
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+    
+    <!-- Ionic Material (beta version!!!) 
+    <link href="css/ionic.material.min.css" rel="stylesheet" type="text/css">
+    <script src="lib/ionic-material/ionic.material.min.js"></script>
+    -->
+
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <script src="lib/angular-websocket/angular-websocket.js"></script>
+    <script src="lib/ionic-service-core/ionic-core.js"></script>
+    <script src="lib/ionic-service-push/ionic-push.js"></script>
+    <script src="lib/ionic-service-analytics/ionic-analytics.js"></script>
+    
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+    <script src="lib/ngCordova/ng-cordova.js"></script>
+    
+    <!-- MomentJS -->
+    <script type="text/javascript" src="lib/moment/moment.js">
+    </script>
+    <script type="text/javascript" src="lib/angular-momentjs/angular-momentjs.js"></script>
+    <script type="text/javascript" src="lib/moment/locale/it.js">
+    </script>
+
+    <!-- TurfJS -->
+    <script type="text/javascript" src="lib/turf/turf.min.js">
+    </script>
+    <script type="text/javascript" src="lib/turf/angular-turf.js">
+    </script>
+
+    <!-- AngularGage -->
+    <script type="text/javascript" src="lib/angular-gage/angular-gage.min.js">
+    </script>
+    <script type="text/javascript" src="lib/angular-gage/es5-sham.min.js">
+    </script>
+    <script type="text/javascript" src="lib/angular-gage/es5-shim.min.js">
+    </script>
+    <script type="text/javascript" src="lib/angular-gage/json3.min.js">
+    </script>
+    <script type="text/javascript" src="lib/angular-gage/justgage.js">
+    </script>
+    <script type="text/javascript" src="lib/angular-gage/raphael.js">
+    </script>
+    
+    <!-- ApiGee -->
+    <!--
+    <script type="text/javascript" src="./www/lib/apigee/apigee.js"></script>
+    <script type="text/javascript" src="./www/lib/apigee/pushnotifications.js"></script>
+    -->
+
+    <!-- Underscore -->
+    <script type="text/javascript" src="lib/underscore/underscore-min.js">
+    </script>
+    <script type="text/javascript" src="lib/angular-underscore-module/angular-underscore-module.js">
+    </script>
+
+    <!-- Angular LeafLet SDK Library -->
+    <script type="text/javascript" src="lib/angular-leaflet/leaflet.js"></script>
+    <script type="text/javascript" src="lib/angular-leaflet/angular-leaflet-directive.min.js"></script>
+    <script type="text/javascript" src="lib/angular-leaflet/leaflet.usermarker.js"></script>
+    <script type="text/javascript" src="lib/angular-leaflet/leaflet.awesome-markers.min.js"></script>
+    <script type="text/javascript" src="lib/angular-leaflet/Leaflet.Weather.js"></script>
+    <script type="text/javascript" src="lib/angular-leaflet/leaflet-openweathermap.js"></script>
+    <script type="text/javascript" src="lib/spin/spin.min.js"></script>
+    <script type="text/javascript" src="lib/angular-leaflet/leaflet.spin.js"></script>
+    
+    <!-- HeatMap -->
+    <script type="text/javascript" src="lib/angular-leaflet/heatmap/heatmap.min.js"></script>
+    <script type="text/javascript" src="lib/angular-leaflet/heatmap/leaflet-heatmap.js"></script>
+
+    <!-- pouchDB -->
+    <script type="text/javascript" src="lib/pouchdb/pouchdb.min.js"></script>
+    <script type="text/javascript" src="lib/pouchdb/angular-pouchdb.min.js"></script>
+
+    <!-- Angular NVD3 -->
+    <script src="lib/angular-nvd3/d3.min.js"></script>
+    <script src="lib/angular-nvd3/nv.d3.min.js"></script>
+    <script src="lib/angular-nvd3/angularjs-nvd3-directives.min.js"></script>
+    <link rel="stylesheet" href="lib/angular-nvd3/nv.d3.css">
+
+    <!-- Import.IO -->
+    <!--
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/importio/importio.js"></script>
+    <script src="lib/importio/angular-importio.js"></script>
+    <script src="lib/importio/AckExtension.js"></script>
+    <script src="lib/importio/cometd.js"></script>
+    <script src="lib/importio/enc-base64-min.js"></script>
+    <script src="lib/importio/hmac-sha1.js"></script>
+    <script src="lib/importio/jquery.cometd-ack.js"></script>
+    <script src="lib/importio/jquery.cometd-reload.js"></script>
+    <script src="lib/importio/jquery.cometd.js"></script>
+    <script src="lib/importio/json2.js"></script>
+    <script src="lib/importio/ReloadExtension.js"></script>
+    -->
+
+    <!-- async -->
+    <script src="lib/async/async.js"></script>
+    <script src="lib/async/angular-async.js"></script>
+
+    <!-- string -->
+    <script src="lib/string/string.min.js"></script>
+    <script src="lib/string/angular-string.js"></script>
+
+    <!-- your app's js -->
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/controllers.js"></script>
+    <script type="text/javascript" src="js/chartscontrollers.js"></script>
+    <script type="text/javascript" src="js/logincontrollers.js"></script>
+    <script type="text/javascript" src="js/mapcontrollers.js"></script>
+    <script type="text/javascript" src="js/services.js"></script>
+    <script type="text/javascript" src="js/servicesimportio.js"></script>
+    <script type="text/javascript" src="js/servicesairquality.js"></script>
+    <script type="text/javascript" src="js/servicesstations.js"></script>
+    <script type="text/javascript" src="js/servicesgeojson.js"></script>
+    <script type="text/javascript" src="js/servicesdb.js"></script>
+    <script type="text/javascript" src="js/serviceslevels.js"></script>
+    <script type="text/javascript" src="js/servicespolluting.js"></script>
+    <script type="text/javascript" src="js/servicesgeolocation.js"></script>
+    <script type="text/javascript" src="js/utilityservices.js"></script>
+    <script type="text/javascript" src="js/filters.js"></script>
+
+  </head>
+  <body ng-app="airq" ion-track-auto="" class="platform-android platform-cordova platform-webview">
+    <!--
+      The nav bar that will be updated as we navigate between views.
+    -->
+    <ion-nav-bar class="bar-stable">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+    </ion-nav-bar>
+    <!--
+      The views will be rendered in the <ion-nav-view> directive below
+      Templates are in the /templates folder (but you could also
+      have templates inline in this html file if you'd like).
+    -->
+    <ion-nav-view></ion-nav-view>
+  </body>
+</html>

@@ -1,0 +1,34 @@
+<ion-view view-title="Previsioni Meteo" hide-nav-bar="true" cache-view="false">
+
+  <ion-header-bar class="bar bar-header bar-positive">
+      <button class="button button-clear" ng-click="back()">
+          <i class="icon ion-ios-home"></i>
+      </button>
+      <h1 class="title">Previsioni Meteo</h1>
+      <div class="buttons">
+        <button class="button button-clear" ng-click="openModal()">
+          <i class="icon ion-ios-help"></i>
+        </button>
+      </div>
+    </ion-header-bar>
+
+  <ion-content overflow-scroll="false" class="has-header">
+
+    <ion-refresher on-refresh="refresh()" pulling-text="Pull to Refresh"></ion-refresher>
+
+    <ion-list>
+      <div>
+        <p ng-show="view_error"><i class="icon ion-alert-circled"></i> {{ error }}</p>
+      </div>
+      <ion-item collection-repeat="weather in weathers">
+        <a class="item item-avatar" href="#" ng-repeat="weather in weathers">
+            <img ng-src=" {{ weather.weather | weather }}">
+            <h2> {{ weather.dt | weather_data }} </h2>
+            <p>
+              <i class="ion-thermometer"> {{ weather.main.temp | number : 0}} C° </i> <i class="ion-flag"></i> {{ weather.wind | wind }} 
+            </p>
+        </a>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

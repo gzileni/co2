@@ -1,0 +1,38 @@
+<ion-modal-view>  
+<ion-header-bar align-title="left" class="bar-positive">
+  <h1 class="title">Servizio Meteo</h1>
+  <div class="buttons">
+    <button class="button button-clear" ng-click="closeModal()">Close</button>
+  </div>
+</ion-header-bar>
+<ion-content class="padding has-footer">
+    
+    <div class="list card">
+
+      <div class="item item-divider">La tua posizione</div>
+      <div class="item item-body item-text-wrap">
+        <div>
+          <i class="icon ion-ios-location"> </i> {{ location | location }}
+        </div>
+      </div>
+      
+      <div class="item item-divider">Fonte dei dati</div>
+
+        <div class="item item-avatar item-text-wrap">
+          <img src="img/openweathermap_logo.png">
+          <h2>OpenWeatherMap</h2>
+        </div>
+
+        <div class="item item-image">
+          <img src="img/owm.png">
+        </div>
+
+        <a class="item item-icon-left assertive" href="http://openweathermap.org" target="_blank">
+          <i class="icon ion-ios-rainy"></i>
+          openweathermap.org
+        </a>
+
+    </div>
+
+   </ion-content>
+</ion-modal-view>

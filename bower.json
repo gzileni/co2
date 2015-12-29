@@ -1,0 +1,18 @@
+{
+  "name": "co2",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0",
+    "ngCordova": "~0.1.17-alpha",
+    "ionic-service-push": "~0.1.7",
+    "ionic-service-core": "~0.1.7",
+    "ionic-service-analytics": "~1.0.0"
+  },
+  "dependencies": {
+    "pouchdb": "~3.6.0",
+    "angular-pouchdb": "~2.1.0",
+    "d3": "~3.5.5",
+    "nvd3": "~1.8.1",
+    "angularjs-nvd3-directives": "~0.0.7"
+  }
+}

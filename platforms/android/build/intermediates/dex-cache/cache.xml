@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gzileni/GitHub/CO2/platforms/android/libs/gcm.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/pre-dexed/release/gcm-7c11253cc73c231b5dda02ea3faeff8bc078ca92.jar" />
+    </item>
+    <item
+        jar="/Users/gzileni/GitHub/CO2/platforms/android/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5fa2183e286730a81f3076f19022539902a24f3">
+        <dex dex="/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/pre-dexed/release/android-support-v13-cf549310eb0ab1cc8f664ae16b78039069de709b.jar" />
+    </item>
+    <item
+        jar="/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/release/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="23a47cc5caffad8fae50bfd737303df4722061e1">
+        <dex dex="/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/pre-dexed/release/classes-f63359e0989b9fb5b38fd1e3fbeb171d069a4b33.jar" />
+    </item>
+
+</items>

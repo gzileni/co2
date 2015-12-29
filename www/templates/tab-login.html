@@ -1,0 +1,28 @@
+<ion-view view-title="Login" hide-nav-bar="true">
+  <ion-content overflow-scroll="false">
+    <div class="row responsive-sm">
+      <div class="col">
+        <div class="list card">
+          <div class="item item-image">
+          <img src="img/icon.png">
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="list">
+          <label class="item item-input item-floating-label">
+            <span class="input-label">Your name</span>
+            <input type="text" placeholder="Your name" ng-model="user.name">
+          </label>
+          <label class="item item-input item-floating-label">
+            <span class="input-label">Bio</span>
+            <input type="text" placeholder="Bio" ng-model="user.bio">
+          </label>
+          <button class="button button-full button-positive" ng-click="register()">
+            Registrazione
+          </button>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

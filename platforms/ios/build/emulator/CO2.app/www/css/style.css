@@ -1,0 +1,45 @@
+/* Empty. Add your own CSS if you like */
+
+#map {
+   width: 100%;
+   height: 100%;
+}
+
+#map_container {
+   width: 100%;
+   height: 640px;
+}
+
+.scroll {
+   height: 100%;
+}
+
+.angular-leaflet-map {
+   width: 100%;
+   height: 100%;
+}
+
+legend {
+    font-size: 10px;
+    font: Arial, Helvetica, sans-serif;
+    line-height: 3px;
+    /* padding: 12px 18px; */
+    background: rgba(255,255,255, 0.9);
+    /* box-shadow: 0 0 5px rgba(0,0,0,0.2); */
+    border-radius: 0px;
+    color: #555;
+}
+
+.legend i {
+    float: left;
+    margin-right: 2px;
+    width: 18px;
+    height: 18px;
+    /*
+    color: #777;
+    margin-right: 4px;
+    margin-bottom: 10px;
+    */
+    opacity: 0.4;
+}
+

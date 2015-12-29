@@ -1,0 +1,54 @@
+<ion-modal-view>  
+<ion-header-bar align-title="left" class="bar-positive">
+  <h1 class="title">Informazioni</h1>
+  <div class="buttons">
+    <button class="button button-clear" ng-click="closeModal()">Close</button>
+  </div>
+</ion-header-bar>
+<ion-content class="padding has-footer">
+    
+    <div class="list card">
+      
+      <div class="item item-divider">La tua posizione</div>
+      <div class="item item-body item-text-wrap">
+          <p>
+            <i class="icon ion-ios-location"> </i> {{ location | location }}
+          </p>
+      </div>
+
+      <div class="item item-divider">Fonte dei dati</div>
+        <div class="item item-avatar item-text-wrap">
+          <img src="img/arpa_logo.png">
+          <h2>{{ source }}</h2>
+          <a href="{{ source_link }}" target="_blank">{{ source_link }}</a>
+          <p>{{ data_airq }}</p>
+      </div>
+
+      <div class="item item-divider">Legenda</div>
+
+      <div class="list">
+        <a class="item item-avatar item-text-wrap" href="#" ng-repeat="level in levels">
+          <img ng-src="{{ level.image }}">
+            <h2>{{ level.name }}</h2>
+        </a>
+      </div>
+
+      <div class="item item-divider">Made by</div>
+      <div class="item item-avatar item-text-wrap">
+        <img src="img/logo.png">
+        <h2>OpenPuglia</h2>
+        <p>Civic Hacking</p>
+        <p><a href="mailto:openpuglia@yahoo.it" target="_blank"><i class="icon ion-ios-email"></i></a> <a href="https://twitter.com/SGIPuglia" target="_blank"><i class="icon ion-social-twitter"></i></a> <a href="http://www.openpuglia.org" target="_blank"><i class="icon ion-ios-world"></i></a></p>
+      </div>
+
+      <div class="item item-divider">Developed by</div>
+      <div class="item item-avatar item-text-wrap">
+        <img src="img/gzileni.jpg">
+        <h2>Giuseppe Zileni </h2>
+        <p>Senior Developer</p>
+        <p><a href="mailto:giuseppe.zileni@gmail.com" target="_blank"><i class="icon ion-ios-email"></i></a> <a href="https://twitter.com/gzileni" target="_blank"><i class="icon ion-social-twitter"></i></a> <a href="https://it.linkedin.com/in/giuseppezileni" target="_blank"><i class="icon ion-social-linkedin"></i></a> <a href="http://giuseppezileni.github.io" target="_blank"><i class="icon ion-ios-world"></i></a></p>
+      </div>
+    </div>
+
+   </ion-content>
+</ion-modal-view>

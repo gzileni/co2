@@ -1,0 +1,97 @@
+prov,citta,ente,centralina,centralina2,zona,tipo,UTME,UTMN,UTMZONE,lat,lng
+BA,Altamura,Provincia di BARI,Altamura,,Suburbana,Traffico,631558,4520820,33,40.8253487,16.5447983
+BA,Molfetta,RRQA,ASM,ASM,Suburbana,Fondo,630969,4562731,33,41.1983539,16.5982243
+BA,Bari,RRQA,Caldarola,,Urbana,Traffico,658520,4553079,33,41.1072436,16.8973116
+BA,Bari,Comune di BARI,Carbonara,Carbonara,Suburbana,Traffico,,,33,41.0741635,16.8675493
+BA,Casamassima,Provincia di BARI,Casamassima,,Suburbana,Fondo,661589,4535223,33,40.9563751,16.9214699
+BA,Bari,Comune di BARI,CAVOUR,CAVOUR,Urbana,Traffico,657197,4554020,33,41.1215689,16.8724812
+BA,Bari,Comune di BARI,CUS,CUS,Suburbana,Traffico,654878,4555354,33,41.136724,16.845783
+BA,Modugno,RRQA,ENAIP,ENAIP,Suburbana,Industriale,648497,4552500,33,41.0944372,16.780525
+BA,Bari,Comune di BARI,Japigia,Japigia,Suburbana,Traffico,657821,4551943,33,41.116413,16.889954
+BA,Bari,Comune di BARI,Kennedy,,Suburbana,Fondo,656105,4551478,33,41.119702,16.865338
+BA,Monopoli,Provincia di BARI,Monopoli,,Suburbana,Traffico,692701,4535752,33,40.9500755,17.2980943
+BA,Monopoli,Provincia di BARI,Monopoli ItalGreen,Monopoli ItalGreen,Suburbana,Traffico,692229,4537004,33,40.95114,17.287912
+BA,Bari,Comune di BARI,Politecnico,,Suburbana,Traffico,656634,4551531,33,41.1090147,16.8786627
+BA,Bari,Comune di BARI,Stanic,,Urbana,Traffico,656212,4552323,33,41.128046,16.798926
+BA,Molfetta,RRQA,Verdi,P.zza Verdi,Urbana,Traffico,634595,4562323,33,41.2001567,16.605415
+BR,Brindisi,ARPA,Casale,Brindisi – Casale,Urbana,Fondo,748879,4504259,33,40.661646,17.9397792
+BR,Ceglie Messapica,ENEL,Ceglie Messapica,,Suburbana,Fondo,712432,4502847,33,40.6474046,17.5143376
+BR,Brindisi,Provincia di BRINDISI,IT Nautico Carnaro,,Urbana,Traffico,747611,4503443,33,40.64841,17.939184
+BR,Torchiarolo,ENEL,Lendinuso,Lendinuso,Rurale,Industriale,760838,4489753,33,40.4829381,18.0515271
+BR,Mesagne,RRQA,Mesagne,,Suburbana,Fondo,737714,4494370,33,40.5577883,17.8054194
+BR,Brindisi,ENIPOWER,Perrino,Brindisi – Perrino,Urbana,Fondo,749892,4502036,33,40.63824,17.94578
+BR,San Pancrazio Salentino,RRQA,San Pancrazio Salentino,,Suburbana,Fondo,741444,4478597,33,40.4177814,17.8319421
+BR,San Pietro Vernotico,RRQA,San Pietro Vernotico,San Pietro Vernotico,Suburbana,Industriale,754781,4486042,33,40.4898487,17.9988286
+BR,San Vito dei Normanni,Provincia di BRINDISI,San Vito dei Normanni,,Fondo,Traffico,729316,4504244,33,40.65659,17.7084174
+BR,Brindisi,ARPA,SISRI,Brindisi – SISRI,Suburbana,Industriale,751700,4501449,33,40.631943,17.952039
+BR,Brindisi,ENEL/EDIPOWER,Terminal Passeggeri,Brindisi - Terminal Passeggeri,Suburbana,Industriale,750422,4503838,33,40.63957,17.947935
+BR,Torchiarolo,RRQA,Torchiarolo,Torchiarolo-Don Minzoni,Suburbana,Industriale,758842,4486404,33,40.4829381,18.0515271
+BR,Torchiarolo,ENEL,Torchiarolo-Via Fanin,Torchiarolo-Via Fanin SN,Suburbana,Industriale,758263,4486545,33,40.488037,18.0538096
+BR,San Pietro Vernotico,Provincia di BRINDISI,Valzani,S. Pietro Vernotico - Valzani,Suburbana,Fondo,754296,4485359,33,40.48096,18.00084
+BR,Mesagne,RRQA,Via Antonucci,Mesagne-Via Antonucci,,,,,33,40.5511964,17.8132887
+BR,Brindisi,ENIPOWER,Via Cappuccini,Brindisi - Cappuccini,Urbana,Traffico,747098,4501881,33,40.63957,17.947935
+BR,Brindisi,ARPA,Via dei Mille,Brindisi - Via dei Mille,Urbana,Traffico,748464,4502808,33,40.6395517,17.9386622
+BR,Francavilla Fontana,Provincia di BRINDISI,Via Fabio Filzi,Francavilla Fontana - Via F. Filzi,Suburbana,Traffico,719236,4489711,33,40.5294276,17.5886095
+BR,Brindisi,RRQA,Via Taranto,Brindisi -Via Taranto?,Urbana,Traffico,749277,4503418,33,40.6334747,17.9449844
+BT,Barletta,Provincia di Bari,Via Casardi,Barletta - Stadio,Urbana,Traffico,607646,4574709,33,41.3175155,16.2858552
+BT,Andria,Provincia di Bari,Via Vaccina,Andria,Urbana,Traffico,609209,4565364,33,41.231376,16.3034349
+FG,Manfredonia,RRQA,Capitaneria di Porto,Manfredonia - Cap. di porto,Suburbana,Traffico,575991,4608679,33,41.6287305,15.9232827
+FG,Foggia,RRQA,Rosati,Foggia,Suburbana,Traffico,545819,4589475,33,41.4585629,15.5507588
+FG,Monte Sant Angelo,RRQA,Monte S. Angelo,Monte S. Angelo - Suolo Ciuffreda,Rurale,Fondo,578692,4613137,33,41.707352,15.954281
+FG,Manfredonia,RRQA,via dei Mandorli,Manfredonia - Mandorli,Suburbana,Traffico,575770,4609022,33,41.6256245,15.9048405
+LE,Arnesano,RRQA,Arnesano Riesci,Arnesano,Suburbana,Traffico,762876,4470790,33,40.3365134,18.0914567
+LE,Campi Salentina,Provincia di LECCE, Campi Salentina, Campi S.na - I.T.C. Costa ,Suburbana,Fondo,756857,4476277,33,40.3992757,18.0237324
+LE,Surbo,RRQA,Giorgiloro,,Suburbana,Traffico,766796,4475426,33,40.3864241,18.1495752
+LE,Guagnano,RRQA,Guagnano,,Suburbana,Fondo,751513,4478431,33,40.4005338,17.948502
+LE,Maglie,Provincia di LECCE,ITC De Castro,Maglie - I.T.C. De Castro,Suburbana,Traffico,780702,4446683,33,40.1229689,18.2997631
+LE,Galatina,Provincia di LECCE,ITC La Porta,Galatina - I.T.C.  La Porta ,Suburbana,Fondo/Industriale,770356,4451121,33,40.1715662,18.1688186
+LE,Lecce,Comune di Lecce,P.zza Libertini,,Urbana,Traffico,769785,4471666,33,40.3537903,18.1762034
+LE,Lecce,Provincia di LECCE,Piazza Palio,Lecce - P.za Palio,Urbana,Traffico,771253,4472743,33,40.3615164,18.1937003
+LE,Lecce,RRQA,S. Maria Cerrate,Lecce - S. Maria Cerrate,Rurale,Fondo,764242,4483446,33,40.458776,18.115587
+LE,Galatina,RRQA,Santa Barbara,Galatina - S. Barbara,Suburbana,Traffico,761767,4457503,33,40.223989,18.0783994
+LE,Surbo,ENEL,Via B. Croce,Surbo- Via B. Croce SN,Rurale,Industriale,764807,4478158,33,40.3989589,18.1285583
+LE,Lecce,Comune di Lecce,Via Garigliano,Lecce - Garigliano,Urbana,Traffico,769536,4473048,33,40.363398,18.1731329
+TA,Grottaglie,Provincia di TARANTO,Grottaglie,,Suburbana,Fondo,705279,4490271,33,40.5379781,17.440118
+TA,Martina Franca,Provincia di TARANTO,Martina Franca,,Urbana,Traffico,697012,4508162,33,40.6994361,17.3363823
+TA,Taranto,ARPA,Paolo VI - CISI,Paolo VI,Rurale,Industriale,687616,4487932,33,40.5226013,17.2731356
+TA,Taranto,RRQA,San Vito,,Suburbana,Traffico/industriale,688778,4477122,33,,
+TA,Statte,ARPA,SS7 Ponte Wind,ss.7 Wind,Rurale,Traffico/industriale,684114,4488423,33,40.4180155,17.215219
+TA,Statte,RRQA,Statte,Statte,Suburbana,Industriale,686530,4492525,33,40.559978,17.2157458
+TA,Taranto,ARPA,Talsano,Talsano,Suburbana,Industriale,693783,4475985,33,40.4014103,17.2919891
+TA,Taranto,RRQA,Via Alto Adige,,Urbana,Traffico,691924,4481337,33,40.4610271,17.2643093
+TA,Taranto,RRQA,Via Archimede,Via Archimede,Suburbana,Industriale,689238,4485033,33,40.4939156,17.2316801
+TA,Massafra,Provincia di TARANTO,Via Frappietri,,Urbana,Traffico/industriale,679111,4495815,33,40.5938291,17.1168983
+TA,Taranto,RRQA,Via Machiavelli,Via Machiavelli,Suburbana,Industriale,688642,4484370,33,40.4870401,17.2217089
+BR,Brindisi,,Bozzano,Brindisi - Bozzano,,,,,33,40.6291524,17.9441206
+TA,Taranto,,Carcere,,,,,,33,40.4585785,17.278766
+BA,Bari,,Ciapi,CIAPI,,,,,33,41.1229408,16.820035
+BA,Bari,,KENNEDY,KENNEDY,,,,,33,41.1010288,16.860768
+BR,Brindisi,,Costa Morena Diga,,,,,,33,40.6422302,17.9359548
+BR,Brindisi,,Costa Morena EST,,,,,,33,40.6422302,17.9359548
+BA,Modugno,,Via Magna Grecia,Via Magna Grecia,,,,,33,41.0897903,16.7771626
+TA,Taranto,,Manduria,,,,,,33,40.4005834,17.6295221
+LE,Lecce,,San Pietro In Lama,,,,,,33,40.3063303,18.1280333
+BAT,Barletta ,,Via Canosa,,,,,,33,41.3114191,16.2630433
+LE,Lecce,,Viale Romagna,,,,,,33,40.3405493,18.1822566
+BA,Bitonto,,EN01,EN01,,,646607.91,4549012.8,33,41.1088388,16.6906897
+BA,Modugno,,Assessorato,EN02 - Assessorato,,,648305,4555516,33,41.0944372,16.780525
+BA,Modugno,,Vigili Urbani,EN03 - Vigili Urbani,,,649647,4549969,33,41.0944372,16.780525
+BA,Modugno,,SAN PAOLO,EN04 - SAN PAOLO,,,650120,4553064,33,41.0944372,16.780525
+BA,Palo del Colle,,EN05?,EN05?,,,642913,4546965,33,,
+BR,Cisternino,,Cisternino,Cisternino,,,703972,4513011,33,40.743194,17.4261229
+BT,Barletta,,Mezzo Mobile - Via del mare,Mezzo Mobile - Via del mare,,,,,33,41.111738,16.694734
+FG,Candela,,Candela,Candela,,,,,33,41.1366132,15.5152695
+FG,Candela,,EX COMES,EX COMES,,,,,33,41.1346456,15.5151944
+FG,Manfredonia,,Manfredonia - Ungaretti,Manfredonia - Ungaretti,,,,,33,41.627484,15.9065273
+FG,Manfredonia,,Via Michelangelo,Via Michelangelo,,,,,33,41.6183755,15.8980867
+FG,San Severo,,Azienda Russo,Azienda Russo,,,536767,4599538,33,41.302266,16.068267
+FG,San Severo,,Posta del Principe,Posta del Principe,,,532294,4609076,33,41.632761,15.38771954
+TA,Taranto,,cokeria,cokeria,,,,,33,40.50013,17.1977
+TA,Taranto,,Direzione,Direzione,,,,,33,40.50013,17.1977
+TA,Taranto,,Meteo Parchi,Meteo Parchi,,,,,33,40.50013,17.1977
+TA,Taranto,,Portineria C,Portineria C,,,,,33,40.50013,17.1977
+TA,Taranto,,Riv1,Riv1,,,,,33,40.50013,17.1977
+TA,Taranto,,Tamburi,Tamburi,,,,,33,40.50013,17.1977
+LE,Lecce,,De Santis,De Santis,,,,,33,40.3541307,18.1742945
+TA,Manduria,,Manduria,Manduria,,,,,33,40.4005834,17.6295221
+TA,Taranto,,Casa Circondariale,Casa Circondariale,,,,,33,40.4585785,17.278766

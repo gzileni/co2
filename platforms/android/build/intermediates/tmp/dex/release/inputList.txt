@@ -1,0 +1,4 @@
+/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/classes/release
+/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/pre-dexed/release/gcm-7c11253cc73c231b5dda02ea3faeff8bc078ca92.jar
+/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/pre-dexed/release/classes-f63359e0989b9fb5b38fd1e3fbeb171d069a4b33.jar
+/Users/gzileni/GitHub/CO2/platforms/android/build/intermediates/pre-dexed/release/android-support-v13-cf549310eb0ab1cc8f664ae16b78039069de709b.jar

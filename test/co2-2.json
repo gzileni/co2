@@ -1,0 +1,1193 @@
+{
+    "offset": 0,
+    "title": "ARPA Puglia - Qualità dell'aria",
+    "pageUrl": "http://www.arpa.puglia.it/web/guest/qariainq",
+    "connectorGuid": "9f6ff387-09f1-4707-9420-2408a6385afc",
+    "results": [
+        {
+            "data": "12 maggio 2015"
+        },
+        {
+            "inquinante": "Inquinante: PM10"
+        },
+        {
+            "giorni/_source": "2",
+            "giorni": 2,
+            "valore/_source": "25",
+            "centralina": "Caldarola",
+            "valore": 25,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "giorni/_source": "2",
+            "giorni": 2,
+            "valore/_source": "21",
+            "centralina": "CAVOUR",
+            "valore": 21,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "giorni/_source": "2",
+            "giorni": 2,
+            "valore/_source": "27",
+            "centralina": "KENNEDY",
+            "valore": 27,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "giorni/_source": "1",
+            "giorni": 1,
+            "valore/_source": "19",
+            "centralina": "Casamassima",
+            "valore": 19,
+            "provincia": "Bari",
+            "comune": "Casamassima"
+        },
+        {
+            "giorni/_source": "4",
+            "giorni": 4,
+            "valore/_source": "20",
+            "centralina": "EN04 - SAN PAOLO",
+            "valore": 20,
+            "provincia": "Bari",
+            "comune": "Modugno"
+        },
+        {
+            "giorni/_source": "1",
+            "giorni": 1,
+            "valore/_source": "18",
+            "centralina": "Monopoli",
+            "valore": 18,
+            "provincia": "Bari",
+            "comune": "Monopoli"
+        },
+        {
+            "giorni/_source": "17",
+            "giorni": 17,
+            "valore/_source": "34",
+            "centralina": "EN05",
+            "valore": 34,
+            "provincia": "Bari",
+            "comune": "Palo del Colle"
+        },
+        {
+            "giorni/_source": "2",
+            "giorni": 2,
+            "valore/_source": "20",
+            "centralina": "Barletta - Stadio ..",
+            "valore": 20,
+            "provincia": "BAT",
+            "comune": "Barletta"
+        },
+        {
+            "giorni/_source": "1",
+            "giorni": 1,
+            "valore/_source": "14",
+            "centralina": "Brindisi - Cappuccini",
+            "valore": 14,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "giorni/_source": "8",
+            "giorni": 8,
+            "valore/_source": "26",
+            "centralina": "Brindisi - Perrino",
+            "valore": 26,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "giorni/_source": "1",
+            "giorni": 1,
+            "valore/_source": "20",
+            "centralina": "Brindisi - Via dei Mille",
+            "valore": 20,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "giorni/_source": "2",
+            "giorni": 2,
+            "valore/_source": "22",
+            "centralina": "Ceglie Messapica",
+            "valore": 22,
+            "provincia": "Brindisi",
+            "comune": "Ceglie Messapica"
+        },
+        {
+            "giorni/_source": "0",
+            "giorni": 0,
+            "centralina": "Francavilla Fontana ..",
+            "provincia": "Brindisi",
+            "comune": "Francavilla Fontana"
+        },
+        {
+            "giorni/_source": "9",
+            "giorni": 9,
+            "valore/_source": "15",
+            "centralina": "San Pancrazio ..",
+            "valore": 15,
+            "provincia": "Brindisi",
+            "comune": "San Pancrazio Salentino"
+        },
+        {
+            "giorni/_source": "3",
+            "giorni": 3,
+            "valore/_source": "20",
+            "centralina": "Lendinuso",
+            "valore": 20,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "giorni/_source": "8",
+            "giorni": 8,
+            "valore/_source": "19",
+            "centralina": "Torchiarolo-Via Fani..",
+            "valore": 19,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "giorni/_source": "4",
+            "giorni": 4,
+            "valore/_source": "25",
+            "centralina": "Manfredonia - ..",
+            "valore": 25,
+            "provincia": "Foggia",
+            "comune": "Manfredonia"
+        },
+        {
+            "giorni/_source": "1",
+            "giorni": 1,
+            "valore/_source": "19",
+            "centralina": "Azienda Russo",
+            "valore": 19,
+            "provincia": "Foggia",
+            "comune": "San Severo"
+        },
+        {
+            "giorni/_source": "14",
+            "giorni": 14,
+            "valore/_source": "20",
+            "centralina": "Arnesano",
+            "valore": 20,
+            "provincia": "Lecce",
+            "comune": "Arnesano"
+        },
+        {
+            "giorni/_source": "9",
+            "giorni": 9,
+            "valore/_source": "15",
+            "centralina": "Guagnano",
+            "valore": 15,
+            "provincia": "Lecce",
+            "comune": "Guagnano"
+        },
+        {
+            "giorni/_source": "4",
+            "giorni": 4,
+            "valore/_source": "21",
+            "centralina": "Lecce - Garigliano",
+            "valore": 21,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "giorni/_source": "6",
+            "giorni": 6,
+            "valore/_source": "18",
+            "centralina": "Surbo- Via B. Croce ..",
+            "valore": 18,
+            "provincia": "Lecce",
+            "comune": "Surbo"
+        },
+        {
+            "giorni/_source": "1",
+            "giorni": 1,
+            "valore/_source": "21",
+            "centralina": "Martina Franca",
+            "valore": 21,
+            "provincia": "Taranto",
+            "comune": "Martina Franca"
+        },
+        {
+            "giorni/_source": "3",
+            "giorni": 3,
+            "valore/_source": "16",
+            "centralina": "Statte",
+            "valore": 16,
+            "provincia": "Taranto",
+            "comune": "Statte"
+        },
+        {
+            "giorni/_source": "2",
+            "giorni": 2,
+            "valore/_source": "15",
+            "centralina": "San Vito",
+            "valore": 15,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "giorni/_source": "3",
+            "giorni": 3,
+            "valore/_source": "18",
+            "centralina": "Via Alto Adige",
+            "valore": 18,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "giorni/_source": "4",
+            "giorni": 4,
+            "valore/_source": "28",
+            "centralina": "Via Machiavelli",
+            "valore": 28,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: PM2.5"
+        },
+        {
+            "valore/_source": "11",
+            "centralina": "CAVOUR",
+            "valore": 11,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "16",
+            "centralina": "EN02 - Assessorato ..",
+            "valore": 16,
+            "provincia": "Bari",
+            "comune": "Modugno"
+        },
+        {
+            "valore/_source": "9",
+            "centralina": "Monopoli ItalGreen",
+            "valore": 9,
+            "provincia": "Bari",
+            "comune": "Monopoli"
+        },
+        {
+            "valore/_source": "9",
+            "centralina": "Brindisi - Terminal ..",
+            "valore": 9,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "13",
+            "centralina": "Torchiarolo-Don ..",
+            "valore": 13,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "valore/_source": "11",
+            "centralina": "Foggia",
+            "valore": 11,
+            "provincia": "Foggia",
+            "comune": "Foggia"
+        },
+        {
+            "valore/_source": "8",
+            "centralina": "Posta del Principe",
+            "valore": 8,
+            "provincia": "Foggia",
+            "comune": "San Severo"
+        },
+        {
+            "valore/_source": "9",
+            "centralina": "Galatina - I.T.C. La ..",
+            "valore": 9,
+            "provincia": "Lecce",
+            "comune": "Galatina"
+        },
+        {
+            "valore/_source": "11",
+            "centralina": "Lecce - S. Maria ..",
+            "valore": 11,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "valore/_source": "8",
+            "centralina": "Paolo VI",
+            "valore": 8,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "14",
+            "centralina": "Via Archimede",
+            "valore": 14,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: NO2"
+        },
+        {
+            "centralina": "Caldarola",
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "85",
+            "centralina": "CAVOUR",
+            "valore": 85,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "85",
+            "centralina": "KENNEDY",
+            "valore": 85,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "25",
+            "centralina": "Casamassima",
+            "valore": 25,
+            "provincia": "Bari",
+            "comune": "Casamassima"
+        },
+        {
+            "valore/_source": "50",
+            "centralina": "EN03 - Vigili Urbani",
+            "valore": 50,
+            "provincia": "Bari",
+            "comune": "Modugno"
+        },
+        {
+            "valore/_source": "25",
+            "centralina": "P.zza Verdi",
+            "valore": 25,
+            "provincia": "Bari",
+            "comune": "Molfetta"
+        },
+        {
+            "valore/_source": "50",
+            "centralina": "Monopoli ItalGreen",
+            "valore": 50,
+            "provincia": "Bari",
+            "comune": "Monopoli"
+        },
+        {
+            "valore/_source": "71",
+            "centralina": "Andria",
+            "valore": 71,
+            "provincia": "BAT",
+            "comune": "Andria"
+        },
+        {
+            "valore/_source": "44",
+            "centralina": "Brindisi - Terminal ..",
+            "valore": 44,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "11",
+            "centralina": "Brindisi - Casale",
+            "valore": 11,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "26",
+            "centralina": "Brindisi - SISRI",
+            "valore": 26,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "29",
+            "centralina": "Brindisi -Via Taranto",
+            "valore": 29,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "12",
+            "centralina": "Cisternino",
+            "valore": 12,
+            "provincia": "Brindisi",
+            "comune": "Cisternino"
+        },
+        {
+            "valore/_source": "21",
+            "centralina": "Mesagne",
+            "valore": 21,
+            "provincia": "Brindisi",
+            "comune": "Mesagne"
+        },
+        {
+            "valore/_source": "9",
+            "centralina": "San Pancrazio ..",
+            "valore": 9,
+            "provincia": "Brindisi",
+            "comune": "San Pancrazio Salentino"
+        },
+        {
+            "valore/_source": "3",
+            "centralina": "San Pietro Vernotico",
+            "valore": 3,
+            "provincia": "Brindisi",
+            "comune": "San Pietro Vernotico"
+        },
+        {
+            "valore/_source": "19",
+            "centralina": "Lendinuso",
+            "valore": 19,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "valore/_source": "9",
+            "centralina": "Torchiarolo-Via Fani..",
+            "valore": 9,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "valore/_source": "54",
+            "centralina": "Manfredonia - ..",
+            "valore": 54,
+            "provincia": "Foggia",
+            "comune": "Manfredonia"
+        },
+        {
+            "valore/_source": "7",
+            "centralina": "Azienda Russo",
+            "valore": 7,
+            "provincia": "Foggia",
+            "comune": "San Severo"
+        },
+        {
+            "valore/_source": "45",
+            "centralina": "Meteo Parchi",
+            "valore": 45,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "11",
+            "centralina": "Arnesano",
+            "valore": 11,
+            "provincia": "Lecce",
+            "comune": "Arnesano"
+        },
+        {
+            "valore/_source": "17",
+            "centralina": "Galatina - I.T.C. La ..",
+            "valore": 17,
+            "provincia": "Lecce",
+            "comune": "Galatina"
+        },
+        {
+            "valore/_source": "49",
+            "centralina": "Lecce - P.za",
+            "valore": 49,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "centralina": "Lecce - S. Maria ..",
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "valore/_source": "13",
+            "centralina": "Surbo- Via B. Croce ..",
+            "valore": 13,
+            "provincia": "Lecce",
+            "comune": "Surbo"
+        },
+        {
+            "valore/_source": "82",
+            "centralina": "Martina Franca",
+            "valore": 82,
+            "provincia": "Taranto",
+            "comune": "Martina Franca"
+        },
+        {
+            "valore/_source": "32",
+            "centralina": "ss.7 Wind",
+            "valore": 32,
+            "provincia": "Taranto",
+            "comune": "Statte"
+        },
+        {
+            "valore/_source": "24",
+            "centralina": "Paolo VI",
+            "valore": 24,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "20",
+            "centralina": "Talsano",
+            "valore": 20,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "16",
+            "centralina": "Via Archimede",
+            "valore": 16,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: O3"
+        },
+        {
+            "valore/_source": "120",
+            "centralina": "CUS",
+            "valore": 120,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "114",
+            "centralina": "EN01",
+            "valore": 114,
+            "provincia": "Bari",
+            "comune": "Bitonto"
+        },
+        {
+            "valore/_source": "114",
+            "centralina": "EN02 - Assessorato ..",
+            "valore": 114,
+            "provincia": "Bari",
+            "comune": "Modugno"
+        },
+        {
+            "valore/_source": "111",
+            "centralina": "Barletta - Stadio ..",
+            "valore": 111,
+            "provincia": "BAT",
+            "comune": "Barletta"
+        },
+        {
+            "valore/_source": "102",
+            "centralina": "Brindisi -Via Taranto",
+            "valore": 102,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "108",
+            "centralina": "Francavilla Fontana ..",
+            "valore": 108,
+            "provincia": "Brindisi",
+            "comune": "Francavilla Fontana"
+        },
+        {
+            "valore/_source": "96",
+            "centralina": "S. Pietro Vernotico - ..",
+            "valore": 96,
+            "provincia": "Brindisi",
+            "comune": "San Pietro Vernotico"
+        },
+        {
+            "valore/_source": "87",
+            "centralina": "Torchiarolo-Don ..",
+            "valore": 87,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "valore/_source": "114",
+            "centralina": "Monte S. Angelo - ..",
+            "valore": 114,
+            "provincia": "Foggia",
+            "comune": "Monte Sant Angelo"
+        },
+        {
+            "valore/_source": "99",
+            "centralina": "Posta del Principe",
+            "valore": 99,
+            "provincia": "Foggia",
+            "comune": "San Severo"
+        },
+        {
+            "valore/_source": "110",
+            "centralina": "Galatina - I.T.C. La ..",
+            "valore": 110,
+            "provincia": "Lecce",
+            "comune": "Galatina"
+        },
+        {
+            "valore/_source": "109",
+            "centralina": "Lecce - S. Maria ..",
+            "valore": 109,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "valore/_source": "117",
+            "centralina": "Grottaglie",
+            "valore": 117,
+            "provincia": "Taranto",
+            "comune": "Grottaglie"
+        },
+        {
+            "valore/_source": "106",
+            "centralina": "Via Frappietri",
+            "valore": 106,
+            "provincia": "Taranto",
+            "comune": "Massafra"
+        },
+        {
+            "valore/_source": "108",
+            "centralina": "Talsano",
+            "valore": 108,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: C6H6"
+        },
+        {
+            "centralina": "Caldarola",
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "0,8",
+            "centralina": "CAVOUR",
+            "valore": 8,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "0,1",
+            "centralina": "Monopoli ItalGreen",
+            "valore": 1,
+            "provincia": "Bari",
+            "comune": "Monopoli"
+        },
+        {
+            "valore/_source": "1,2",
+            "centralina": "Barletta - Stadio ..",
+            "valore": 12,
+            "provincia": "BAT",
+            "comune": "Barletta"
+        },
+        {
+            "valore/_source": "0,3",
+            "centralina": "Brindisi - SISRI",
+            "valore": 3,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "0,7",
+            "centralina": "Brindisi -Via Taranto",
+            "valore": 7,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "Francavilla Fontana ..",
+            "valore": 2,
+            "provincia": "Brindisi",
+            "comune": "Francavilla Fontana"
+        },
+        {
+            "centralina": "San Vito dei ..",
+            "provincia": "Brindisi",
+            "comune": "San Vito dei Normanni"
+        },
+        {
+            "valore/_source": "0,5",
+            "centralina": "Manfredonia - ..",
+            "valore": 5,
+            "provincia": "Foggia",
+            "comune": "Manfredonia"
+        },
+        {
+            "valore/_source": "0,7",
+            "centralina": "Direzione",
+            "valore": 7,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "Portineria C",
+            "valore": 2,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "0,6",
+            "centralina": "Tamburi",
+            "valore": 6,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "0,6",
+            "centralina": "Lecce - P.za",
+            "valore": 6,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "Via Frappietri",
+            "valore": 2,
+            "provincia": "Taranto",
+            "comune": "Massafra"
+        },
+        {
+            "valore/_source": "0,6",
+            "centralina": "Paolo VI",
+            "valore": 6,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "0,4",
+            "centralina": "Via Machiavelli",
+            "valore": 4,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: CO"
+        },
+        {
+            "centralina": "Caldarola",
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "0,6",
+            "centralina": "CAVOUR",
+            "valore": 6,
+            "provincia": "Bari",
+            "comune": "Bari"
+        },
+        {
+            "valore/_source": "0,5",
+            "centralina": "EN01",
+            "valore": 5,
+            "provincia": "Bari",
+            "comune": "Bitonto"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "EN03 - Vigili Urbani",
+            "valore": 2,
+            "provincia": "Bari",
+            "comune": "Modugno"
+        },
+        {
+            "valore/_source": "0,9",
+            "centralina": "Monopoli",
+            "valore": 9,
+            "provincia": "Bari",
+            "comune": "Monopoli"
+        },
+        {
+            "valore/_source": "1",
+            "centralina": "Andria",
+            "valore": 1,
+            "provincia": "BAT",
+            "comune": "Andria"
+        },
+        {
+            "valore/_source": "0,3",
+            "centralina": "Brindisi - Cappuccini",
+            "valore": 3,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "Brindisi - SISRI",
+            "valore": 2,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "0,6",
+            "centralina": "Ceglie Messapica",
+            "valore": 6,
+            "provincia": "Brindisi",
+            "comune": "Ceglie Messapica"
+        },
+        {
+            "valore/_source": "0,4",
+            "centralina": "Mesagne-Via ..",
+            "valore": 4,
+            "provincia": "Brindisi",
+            "comune": "Mesagne"
+        },
+        {
+            "centralina": "San Vito dei ..",
+            "provincia": "Brindisi",
+            "comune": "San Vito dei Normanni"
+        },
+        {
+            "valore/_source": "0,9",
+            "centralina": "Foggia",
+            "valore": 9,
+            "provincia": "Foggia",
+            "comune": "Foggia"
+        },
+        {
+            "valore/_source": "0,6",
+            "centralina": "Posta del Principe",
+            "valore": 6,
+            "provincia": "Foggia",
+            "comune": "San Severo"
+        },
+        {
+            "valore/_source": "0,7",
+            "centralina": "Campi S.na - I.T.C. ..",
+            "valore": 7,
+            "provincia": "Lecce",
+            "comune": "Campi Salentina"
+        },
+        {
+            "valore/_source": "1,1",
+            "centralina": "Lecce - P.za",
+            "valore": 11,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "Lecce - S. Maria ..",
+            "valore": 2,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "valore/_source": "0,3",
+            "centralina": "Grottaglie",
+            "valore": 3,
+            "provincia": "Taranto",
+            "comune": "Grottaglie"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "ss.7 Wind",
+            "valore": 2,
+            "provincia": "Taranto",
+            "comune": "Statte"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "Paolo VI",
+            "valore": 2,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "0,2",
+            "centralina": "Via Alto Adige",
+            "valore": 2,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "0,4",
+            "centralina": "Via Machiavelli",
+            "valore": 4,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: SO2"
+        },
+        {
+            "valore/_source": "5,7",
+            "centralina": "Brindisi - Terminal ..",
+            "valore": 57,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "4,5",
+            "centralina": "Brindisi - Casale",
+            "valore": 45,
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "centralina": "Brindisi - SISRI",
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "centralina": "Brindisi -Via Taranto",
+            "provincia": "Brindisi",
+            "comune": "Brindisi"
+        },
+        {
+            "valore/_source": "1,8",
+            "centralina": "Cisternino",
+            "valore": 18,
+            "provincia": "Brindisi",
+            "comune": "Cisternino"
+        },
+        {
+            "valore/_source": "4,8",
+            "centralina": "Mesagne",
+            "valore": 48,
+            "provincia": "Brindisi",
+            "comune": "Mesagne"
+        },
+        {
+            "valore/_source": "5,2",
+            "centralina": "S. Pietro Vernotico - ..",
+            "valore": 52,
+            "provincia": "Brindisi",
+            "comune": "San Pietro Vernotico"
+        },
+        {
+            "valore/_source": "5",
+            "centralina": "Lendinuso",
+            "valore": 5,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "valore/_source": "9,6",
+            "centralina": "Torchiarolo-Via Fani..",
+            "valore": 96,
+            "provincia": "Brindisi",
+            "comune": "Torchiarolo"
+        },
+        {
+            "valore/_source": "0,9",
+            "centralina": "Arnesano",
+            "valore": 9,
+            "provincia": "Lecce",
+            "comune": "Arnesano"
+        },
+        {
+            "centralina": "Guagnano",
+            "provincia": "Lecce",
+            "comune": "Guagnano"
+        },
+        {
+            "valore/_source": "5,4",
+            "centralina": "Lecce - S. Maria ..",
+            "valore": 54,
+            "provincia": "Lecce",
+            "comune": "Lecce"
+        },
+        {
+            "valore/_source": "14,9",
+            "centralina": "Surbo- Via B. Croce ..",
+            "valore": 149,
+            "provincia": "Lecce",
+            "comune": "Surbo"
+        },
+        {
+            "valore/_source": "2,9",
+            "centralina": "Via Frappietri",
+            "valore": 29,
+            "provincia": "Taranto",
+            "comune": "Massafra"
+        },
+        {
+            "valore/_source": "3",
+            "centralina": "Statte",
+            "valore": 3,
+            "provincia": "Taranto",
+            "comune": "Statte"
+        },
+        {
+            "valore/_source": "0,7",
+            "centralina": "San Vito",
+            "valore": 7,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "6,7",
+            "centralina": "Via Alto Adige",
+            "valore": 67,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "4,2",
+            "centralina": "Via Machiavelli",
+            "valore": 42,
+            "provincia": "Taranto",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: H2S"
+        },
+        {
+            "valore/_source": "2",
+            "centralina": "Manfredonia - ..",
+            "valore": 2,
+            "provincia": "Foggia",
+            "comune": "Manfredonia"
+        },
+        {
+            "valore/_source": "2",
+            "centralina": "Direzione",
+            "valore": 2,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "2",
+            "centralina": "Portineria C",
+            "valore": 2,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "1",
+            "centralina": "Tamburi",
+            "valore": 1,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: PM10 ENV"
+        },
+        {
+            "valore/_source": "102",
+            "centralina": "cokeria",
+            "valore": 102,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "46",
+            "centralina": "Meteo Parchi",
+            "valore": 46,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "52",
+            "centralina": "Riv1",
+            "valore": 52,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: BLACK CARB"
+        },
+        {
+            "valore/_source": "724",
+            "centralina": "Direzione",
+            "valore": 724,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "447",
+            "centralina": "Portineria C",
+            "valore": 447,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "1.280",
+            "centralina": "Tamburi",
+            "valore": 1.28,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: IPA"
+        },
+        {
+            "valore/_source": "4",
+            "centralina": "Direzione",
+            "valore": 4,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "1",
+            "centralina": "Portineria C",
+            "valore": 1,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "16",
+            "centralina": "Tamburi",
+            "valore": 16,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: PM2.5 SWAM"
+        },
+        {
+            "valore/_source": "18",
+            "centralina": "Direzione",
+            "valore": 18,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "11",
+            "centralina": "Portineria C",
+            "valore": 11,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "14",
+            "centralina": "Tamburi",
+            "valore": 14,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: PM10 SWAM"
+        },
+        {
+            "valore/_source": "38",
+            "centralina": "Direzione",
+            "valore": 38,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "19",
+            "centralina": "Portineria C",
+            "valore": 19,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "valore/_source": "28",
+            "centralina": "Tamburi",
+            "valore": 28,
+            "provincia": "ILVA",
+            "comune": "Taranto"
+        },
+        {
+            "inquinante": "Inquinante: PM10 B"
+        }
+    ]
+}
