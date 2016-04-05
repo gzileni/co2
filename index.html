@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Co2 by openpuglia-cloud</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Co2</h1>
+      <h2 class="project-tagline">App per il monitoraggio dei dati ambientali dalle centraline ARPA</h2>
+      <a href="https://github.com/openpuglia-cloud/co2" class="btn">View on GitHub</a>
+      <a href="https://github.com/openpuglia-cloud/co2/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/openpuglia-cloud/co2/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1>
+<a id="co2" class="anchor" href="#co2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CO2</h1>
+
+<p><img src="resources/android/android-banner-1.jpg" alt="co2"></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.ionicframework.co2">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/it_app_rgb_wo_45.png">
+</a></p>
+
+<p><a href="https://itunes.apple.com/us/app/co2/id1006385114?l=it&amp;ls=1&amp;mt=8">
+  <img src="resources/ios/appstore.png" alt="AppleStore">
+</a></p>
+
+<p>CO2 è una App sviluppata per il monitoraggio dei dati ambientali in Puglia, rilevati dalle centraline <a href="http://www.arpa.puglia.it/web/guest/qariainq">ARPA</a> distribuite su tutto il <a href="https://www.arpa.puglia.it/c/document_library/get_file?uuid=68743289-14f7-4f12-aaa3-e3e4087f6675&amp;groupId=13883">territorio regionale</a>.</p>
+
+<p>La Rete Regionale ARPA è costituita da 55 stazioni, che rilevano i seguenti inquinanti:</p>
+
+<ul>
+<li>
+<a href="https://it.wikipedia.org/wiki/PM10">PM10</a>: Insieme di sostanze solide e liquide con diametro inferiore a 10 micron. Derivano da emissioni di autoveicoli, processi industriali, fenomeni naturali. </li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Particolato">PM2.5</a>: Insieme di sostanze solide e liquide con diametro inferiore a 2.5 micron. Derivano da processi industriali, processi di combustione, emissioni di autoveicoli, fenomeni naturali. </li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Ozono">O3 (Ozono)</a>: Sostanza non emessa direttamente in atmosfera, si forma per reazione tra altri inquinanti, principalmente NO2 e idrocarburi, in presenza di radiazione solare.</li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Diossido_di_azoto">NO2 (Diossido di azoto)</a>: Gas tossico che si forma nelle combustioni ad alta temperatura. Sue principali sorgenti sono i motori a scoppio, gli impianti termici, le centrali termoelettriche.</li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Monossido_di_carbonio">CO (Monossido di carbonio)</a>: Sostanza gassosa, si forma per combustione incompleta di materiale organico, ad esempio nei motori degli autoveicoli e nei processi industriali.</li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Benzene">C6H6 (Benzene)</a>: Liquido volatile e dall’odore dolciastro. Deriva dalla combustione incompleta del carbone e del petrolio, dai gas esausti dei veicoli a motore, dal fumo di tabacco.</li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Diossido_di_zolfo">SO2 (Biossido di zolfo)</a>: Gas irritante, si forma soprattutto in seguito all'utilizzo di combustibili (carbone, petrolio, gasolio) contenenti impurezze di zolfo.</li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Acido_solfidrico">H2S</a>: Gas incolore dall'odore caratteristico di uova marce. L’H2S di origine antropica si forma, tra l’altro, nei processi di depurazione delle acque reflue, produzione di carbon coke, raffinazione del petrolio.</li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Nero_di_carbone">Black Carbon</a>: Inquinante costituito da polvere finissima di carbone costituita al 95-99% da carbonio e da molecole aromatiche. È emesso soprattutto durante la combustione incompleta del carbone.</li>
+<li>
+<a href="https://it.wikipedia.org/wiki/Idrocarburi_policiclici_aromatici">IPA</a>: Inquinanti organici costituiti da più anelli benzenici condensati, si formano per combustione incompleta di combustibili fossili ma anche di legno e rifiuti. (Uno di essi, il benzo(a)pirene, è classificato dalla IARC ha come cancerogeno per l’uomo).</li>
+</ul>
+
+<h2>
+<a id="indice-di-qualità-dellaria" class="anchor" href="#indice-di-qualit%C3%A0-dellaria" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="http://en.wikipedia.org/wiki/Air_quality_index">Indice di qualità dell'aria</a>
+</h2>
+
+<p>I dati di monitoraggio dell'aria vengono rilevati dalle centraline ARPA più vicine alla posizione del dispositivo, e viene assegnato un indice di qualità dell'aria secondo questi colori:<br></p>
+
+<p><img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-1.jpg" alt="airq1"> Nessun rischio per la salute<br>
+<img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-2.jpg" alt="airq2"> Per alcuni individui ipersensibili si dovrebbe ridurre l'eserzio fisico all'aperto.<br>
+<img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-3.jpg" alt="airq3"> Potrebbero soppragiungere alcune irritazioni, individui con problemi di resporazione e cardiaci dovrebbero ridurre le attività all'esterno.<br>
+<img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-4.jpg" alt="airq4"> Potrebbero soppragiungere alcune irritazioni, individui con problemi di resporazione e cardiaci dovrebbero ridurre le attività all'esterno.<br>
+<img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-5.jpg" alt="airq5"> E' in pericolo la salute delle persone, gli individui con problemi respiratori e cardiaci devono evitare di uscire di casa.<br>
+<img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-6.jpg" alt="airq6"> E' in pericolo la salute delle persone, gli individui con problemi respiratori e cardiaci devono evitare di uscire di casa.<br>
+<img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-7.jpg" alt="airq7"> E' rischioso per qualsiasi individuo, possibili sintomi di irritazione, evitare di uscire di casa.<br>
+<img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/airq/level-8.jpg" alt="airq8"> Estremamente pericoloso per la salute di qualsiasi individuo.<br></p>
+
+<h2>
+<a id="rilevamento-della-qualità-dellaria" class="anchor" href="#rilevamento-della-qualit%C3%A0-dellaria" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Rilevamento della qualità dell'aria</h2>
+
+<p><img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/iphone4s/co2.png" alt="co2"></p>
+
+<h3>
+<a id="indicatore" class="anchor" href="#indicatore" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Indicatore</h3>
+
+<p><img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/iphone4s/gauge.png" alt="gauge"></p>
+
+<h2>
+<a id="mappa-degli-inquinanti" class="anchor" href="#mappa-degli-inquinanti" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Mappa degli inquinanti</h2>
+
+<p><img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/iphone4s/ss_map.png" alt="map"></p>
+
+<h2>
+<a id="previsioni-meteo" class="anchor" href="#previsioni-meteo" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Previsioni Meteo</h2>
+
+<p><img src="https://raw.githubusercontent.com/openpuglia-cloud/co2/master/screenshots/iphone4s/weather.png" alt="weather"></p>
+
+<h2>
+<a id="riferimento" class="anchor" href="#riferimento" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Riferimento</h2>
+
+<p>La App è stata sviluppata con <a href="http://www.ionicframework.com">IonicFramework</a><br>
+Post sul blog dello sviluppatore, <a href="http://giuseppezileni.github.io/app/2015/06/20/co2.html">CO2, Un naso elettronico sul vostro smartphone</a></p>
+
+<h2>
+<a id="autore" class="anchor" href="#autore" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Autore</h2>
+
+<ul>
+<li><a href="http://www.openpuglia.org">OpenPuglia</a></li>
+<li>
+<a href="http://giuseppezileni.github.io">Giuseppe Zileni</a> | <a href="http://www.twitter.com/gzileni">twitter</a> | <a href="https://it.linkedin.com/in/giuseppezileni">linkedin</a>
+</li>
+</ul>
+
+<h2>
+<a id="support" class="anchor" href="#support" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support</h2>
+
+<p><a href="https://gitter.im/opendatabari/co2?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter"></a></p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/openpuglia-cloud/co2">Co2</a> is maintained by <a href="https://github.com/openpuglia-cloud">openpuglia-cloud</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
